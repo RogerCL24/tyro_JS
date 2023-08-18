@@ -1,7 +1,7 @@
 # Greeting
 First program with Javascript
 
-- To print text in the console we only need to code this:
+- To print text in the console we only need to code the following command:
 ```javascript
 console.log("Hi everyone")
 ```
