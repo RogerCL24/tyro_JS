@@ -1,5 +1,5 @@
 # tyro_JS
 
 - `Saying hi`
-- `SINTAXYS`
+- `SYNTAX`
 - `OPERATORS`
