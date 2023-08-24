@@ -13,3 +13,6 @@
 -  `DATA STRUCTURES`: The use of the _arrays_, _strings_ and _objects_, besides 2 new functions _math_ and _date_.
 
 -  `FINAL PROJECT`: Simple program to combine all the previous learnt knowledge of a fast food order application on the console.
+
+> [!NOTE]
+> This repository works as a previous introduction to the use of ``Node.js`` at the [NodeJS-WS_chat](https://github.com/RogerCL24/NodeJS-WS_chat) repo.
